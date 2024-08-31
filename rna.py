@@ -13,7 +13,4 @@ def dna_to_rna(str):
         else:
             rna = rna + nucleotide
     
-    print(rna)
-
-dna_to_rna("GATGGAACTTGACTACGTAAATT")
-
+    return rna

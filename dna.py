@@ -21,5 +21,3 @@ def count_nucleotides(str):
         counts[letter] = counts[letter] + 1
     
     return counts
-
-count_nucleotides("AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC")

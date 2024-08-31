@@ -14,6 +14,3 @@ def calc(sequence):
         mass += aa_mass[nt]
     
     print(mass)
-
-
-calc("SKADYEK")
